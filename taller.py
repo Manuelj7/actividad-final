@@ -50,6 +50,8 @@ class heroe(superheroe,traje,ciudad):
 
     def usar_poder(self):
         print(f"{self.nombre} usa su poder de {self.poder}(nivel {self.nivel_poder})")
+        self.equipar_traje()
+        self.proteger_ciudad()
 
     def __str__(self):
         return f"Héroe: {self.nombre} - Poder: {self.poder} - Nivel: {self.nivel_poder}"
