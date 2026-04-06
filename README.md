@@ -128,10 +128,9 @@ El programa incluye:
 ## 📁 Estructura del proyecto
 
 ```
-nivelacion_python/
-│
-├── taller.py
-└── README.md
+Readme
+|
+taller.py
 ```
 
 ---
@@ -142,7 +141,4 @@ Este proyecto permite aplicar de forma práctica los conceptos de la POO, demost
 
 ---
 
-## 👨‍💻 Autor
 
-Estudiante de Ingeniería de Sistemas
-4° semestre
